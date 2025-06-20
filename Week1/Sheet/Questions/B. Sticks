@@ -1,0 +1,23 @@
+B. Sticks
+time limit per test2 seconds
+memory limit per test64 megabytes
+
+On Tuesdays Hassan and Ali have a heavy schedule.After the first 5 classes they finally had their breaktime. In the playground they found three sticks.
+As Hassan is a clever student, he asked Ali if he can form a triangle with these sticks? Given the length of each stick, Help Ali answer the question.
+
+Input
+You will be given 3 integers X, Y, Z(1 ≤ X, Y, Z ≤ 1013)
+
+Output
+If Ali can form a triangle output "YES",otherwise "NO".
+
+Examples
+Input
+3 4 5
+Output
+YES
+Input
+1 2 3
+Output
+NO
+
