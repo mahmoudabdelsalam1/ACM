@@ -1,0 +1,23 @@
+A. Almost rectangle
+time limit per test2 seconds
+memory limit per test64 megabytes
+
+One day Tamer was playing with a rectangle carelessly so he broke it now it looks like this.
+
+
+instead of being sad that he broke a beautiful rectangle Tamer was curious about the area of the new shape, help him determine the new area.
+
+Input
+you will be given 4 integers, the values of a, b, c and d respectively ( 1  ≤  c  <  a  ≤  103, 1  ≤  d  <  b  ≤  103 ).
+
+Output
+print the area of the shape rounded to 6 decimal places.
+
+Example
+Input
+4 4 2 2
+Output
+14.000000
+
+note
+width is b, length is a,sublength is d ,subwidth is c
