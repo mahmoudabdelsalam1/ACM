@@ -1,1 +1,14 @@
+// A - Money, Money, Money!
 
+#include<iostream>
+using namespace std;
+
+
+int main()
+{
+	long long n, x, y;
+	cin >> n >> x >> y;
+	cout << (n*y) - (n*x);
+	
+ return 0;
+}
