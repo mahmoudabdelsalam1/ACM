@@ -1,32 +1,25 @@
 B. Boo and The Equation
 time limit per test0.25 seconds
 memory limit per test4 megabytes
-Boo
- had a long and hard day at school. When she came back, she slept immediately. Unfortunately, Boo
- has a homework to be done. The homework is very easy but she is very tired. If Boo
- goes to school without doing the homework she will get punished. So she asks for your help.
+
+Boo had a long and hard day at school. When she came back, she slept immediately. Unfortunately, Boo has a homework to be done. The homework is very easy but she is very tired. If Boo
+goes to school without doing the homework she will get punished. So she asks for your help.
 
 The homework is very easy. Given an arithmetic equation you have to print the result of this equation. The equation is given below:
-
-(2a+3b)×5c
+                                                         (2a+3b)×5c
 
 Input
-The input consists of one line containing 3
- decimal numbers a,b
- and c
- (1≤a,b,c≤103)
-.
+The input consists of one line containing 3 decimal numbers a,b and c (1≤a,b,c≤103).
 
 Output
-Print in one line the result of the equation. Note that you should print it with exactly 6
- digits after the decimal point.
+Print in one line the result of the equation. Note that you should print it with exactly 6 digits after the decimal point.
 
 Examples
-InputCopy
+Input
 2 2 2
-OutputCopy
+Output
 100.000000
-InputCopy
+Input
 2.5 3 4.5
-OutputCopy
+Output
 315.000000
