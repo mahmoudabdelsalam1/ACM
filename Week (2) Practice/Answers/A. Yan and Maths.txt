@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	long long n,x,k;
+	cin >> n;
+	k = n;
+	long long even = 0, odd = 0;
+	while (k>0)
+	{
+		x = k % 10;
+		k = k / 10;
+		if (x % 2 == 0)
+			even++;
+		else
+			odd++;
+		
+
+
+	}
+	cout << "Even : " << even << endl;
+	cout << "Odd : " << odd << endl;
+
+     return 0;
+}
+
